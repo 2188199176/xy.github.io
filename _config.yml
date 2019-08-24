@@ -1,1 +1,5 @@
 theme: jekyll-theme-modernist
+deploy:
+ type: git
+ repo: git@github.com:2188199176/xy.github.io.git
+ branch: master
